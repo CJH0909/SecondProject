@@ -3,7 +3,7 @@ public class Hello {
 		System.out.println("Hello Git");
 		System.out.println("login");
 		System.out.println("logout");
-		System.out.prinntln("leg");
+		System.out.prinntln("Register");
 		System.out.println("what is git");
 		System.out.println("that's DVCS");
 	}
