@@ -11,6 +11,8 @@ public class Hello {
 		System.out.println("what is git");
 		System.out.println("that's DVCS");
 		System.out.println("good afternoon")
+		System.out.println("Hello Git2);
+		System.out.println("Hello Git3);
 	}
 }
 
